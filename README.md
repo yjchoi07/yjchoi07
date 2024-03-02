@@ -25,7 +25,11 @@
 - 🔭 I’m currently working on two projects:
   
 - App Development [Startup] = https://github.com/Campus-People/HousingBackEnd
+ <br> 🍎 iOS UIUX & Azure cloud 
+  
 - Predictive and Relation Analysis with ML & AI = https://github.com/yjchoi07/Findiveristy
+  <br> 🍏 Python, R, Tableau & ML (ARIMA,LSTM) 
+  
   
 
 
