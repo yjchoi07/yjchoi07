@@ -1,16 +1,32 @@
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=Venom&text=Welcome&animation=fadeIn)
 ### Hi there 👋
 
-<!--
-**yjchoi07/yjchoi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  
+####  :clipboard: SKILLS
+ <br/>
+<div align="center">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=white">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=Azure%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### 👷 Project Working On...
+
+ <br/>
+
+
+- 🔭 I’m currently working on two projects:
+  
+- App Development [Startup] = https://github.com/Campus-People/HousingBackEnd
+- Predictive and Relation Analysis with ML & AI = https://github.com/yjchoi07/Findiveristy
+  
+
+
+
